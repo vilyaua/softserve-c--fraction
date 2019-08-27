@@ -7,6 +7,9 @@ namespace softserve_c__fraction
     {
         static void Main(string[] args)
         {
+            int[] number = new int[] { 3, 292, 282 };
+            int[] number_abs = new int[] { Math.Abs(number[0]), Math.Abs(number[1]), Math.Abs(number[2])};
+
             int[] normalizer(int[] num)
             {
                 int div = num[1] / num[2];
@@ -27,7 +30,7 @@ namespace softserve_c__fraction
                     else
                     {
                         divider--;
-                        System.Console.Write($"{ divider + 1 } : ");
+                        // System.Console.Write($"{ divider + 1 } : ");
                     }
                 }
                 return num;
@@ -76,10 +79,7 @@ namespace softserve_c__fraction
                     System.Console.WriteLine("Not 3!");
                 }
             }
-
-            int[] number = new int[] { 3, -292, -282 };
-            int[] number_abs = new int[] { Math.Abs(number[0]), Math.Abs(number[1]), Math.Abs(number[2])};
-
+            
             output(number);
             output(normalizer(number_abs));
         }
