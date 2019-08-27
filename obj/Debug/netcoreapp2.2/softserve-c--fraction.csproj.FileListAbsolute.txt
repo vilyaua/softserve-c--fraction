@@ -1,0 +1,11 @@
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.csprojAssemblyReference.cache
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.csproj.CoreCompileInputs.cache
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.AssemblyInfoInputs.cache
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.AssemblyInfo.cs
+/home/vilyaua/softserve/softserve-c--fraction/bin/Debug/netcoreapp2.2/softserve-c--fraction.deps.json
+/home/vilyaua/softserve/softserve-c--fraction/bin/Debug/netcoreapp2.2/softserve-c--fraction.runtimeconfig.json
+/home/vilyaua/softserve/softserve-c--fraction/bin/Debug/netcoreapp2.2/softserve-c--fraction.runtimeconfig.dev.json
+/home/vilyaua/softserve/softserve-c--fraction/bin/Debug/netcoreapp2.2/softserve-c--fraction.dll
+/home/vilyaua/softserve/softserve-c--fraction/bin/Debug/netcoreapp2.2/softserve-c--fraction.pdb
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.dll
+/home/vilyaua/softserve/softserve-c--fraction/obj/Debug/netcoreapp2.2/softserve-c--fraction.pdb
